@@ -1,0 +1,7 @@
+pyautogen==0.2.12
+scikit-learn
+openai
+python-dotenv
+requests
+chromadb
+sentence-transformers
